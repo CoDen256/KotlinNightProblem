@@ -1,7 +1,6 @@
 fun main(args: Array<String>){
     print(f(1))
 
-    println(convert(one))
     for (num in nums){
         println(replace(num))
         println(count(num))
