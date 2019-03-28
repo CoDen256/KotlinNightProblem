@@ -8,7 +8,7 @@ fun main(args: Array<String>){
 
 fun countChars(){
     var count = 0
-    read("numbers.kt").forEachLine { it -> it.forEach { c: Char -> if (!c.isWhitespace()) count ++} }
+    read("main.kt").forEachLine { it -> it.forEach { c: Char -> if (!c.isWhitespace()) count ++} }
     println("All chars: $count")
 }
 
