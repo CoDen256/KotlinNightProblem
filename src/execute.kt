@@ -3,7 +3,7 @@ import java.io.FileReader
 
 fun main(args: Array<String>){
     countChars()
-    print(f(145))
+    print(f(1234567890))
 }
 
 fun countChars(){
