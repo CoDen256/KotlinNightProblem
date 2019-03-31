@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78075d07-b622-414e-a2e2-fc525b5ee14c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemKotlinNight/ExecuteKt$countChars$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemKotlinNight/ExecuteKt$countChars$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemKotlinNight/ExecuteKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemKotlinNight/ExecuteKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProblemKotlinNight/MainKt$f$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProblemKotlinNight/MainKt$f$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/execute.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/execute.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
     </list>
@@ -17,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="189">
+              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -26,11 +30,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/execute.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#45#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="84">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -38,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/numbers.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
+            <state relative-caret-position="2310">
               <caret line="110" selection-start-line="110" selection-end-line="111" />
             </state>
           </provider>
@@ -66,8 +67,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/some" />
         <option value="$PROJECT_DIR$/src/numbers.kt" />
-        <option value="$PROJECT_DIR$/src/execute.kt" />
         <option value="$PROJECT_DIR$/src/main.kt" />
+        <option value="$PROJECT_DIR$/src/execute.kt" />
       </list>
     </option>
   </component>
@@ -88,6 +89,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,7 +115,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -184,25 +185,28 @@
       <workItem from="1553789137799" duration="8080000" />
       <workItem from="1553799962890" duration="1948000" />
       <workItem from="1553837272868" duration="1634000" />
-      <workItem from="1553849389656" duration="6467000" />
+      <workItem from="1553849389656" duration="6937000" />
+      <workItem from="1553856472722" duration="171000" />
+      <workItem from="1553937017314" duration="3944000" />
+      <workItem from="1554028018090" duration="692000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20717000" />
+    <option name="totallyTimeSpent" value="25994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08547558" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17609255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38761777" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35935396" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -226,25 +230,22 @@
     <entry file="file://$PROJECT_DIR$/src/some" />
     <entry file="file://$PROJECT_DIR$/src/numbers.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
+        <state relative-caret-position="2310">
           <caret line="110" selection-start-line="110" selection-end-line="111" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/execute.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="84">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="189">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>

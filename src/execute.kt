@@ -1,9 +1,8 @@
-import java.io.File
 import java.io.FileReader
 
 fun main(args: Array<String>){
     countChars()
-    print(f(1234567890))
+    print(f(123456789))
 }
 fun countChars(){
     var count = 0
